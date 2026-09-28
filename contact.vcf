@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:PRASHANT S
+N:S;PRASHANT;;;
+ORG:EARTH MATTERS GROUP
+TITLE:Architecture & Sustainable Design Consultant
+TEL;TYPE=cell,voice;VALUE=uri:tel:+919632884758
+EMAIL;TYPE=work:earthmattersgroup@gmail.com
+ADR;TYPE=work:;;Bengaluru;Bengaluru;Karnataka;;India
+NOTE:Architecture • Interior Design • Sustainability • Consulting
+END:VCARD
